@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+  <item
+      android:title="Tạo"
+      android:id="@+id/menutao"
+      app:showAsAction="collapseActionView">
+  </item>
+  <item
+      android:title="Yêu thích"
+     android:id="@+id/menuyeuthich"
+      app:showAsAction="collapseActionView"
+      ></item>
+</menu>

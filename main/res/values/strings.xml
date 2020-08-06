@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contact1</string>
+    <string name="t_n">Tên</string>
+    <string name="s_i_n_tho_i">Số điện thoại</string>
+    <string name="c_p_nh_t">cập nhật</string>
+    <string name="th_m">thêm</string>
+    <string name="h_y">hủy</string>
+    <string name="vo_thanh_linh">vo thanh linh</string>
+    <string name="_01235645222">01235645222</string>
+    <string name="b_n_mu_n_x_a_hay_s_a_th_ng_tin_n_y">Bạn muốn xóa hay sửa thông tin này ?</string>
+    <string name="xo">xoá</string>
+    <string name="s_a">sửa</string>
+</resources>
